@@ -15,7 +15,12 @@ syntax
 *git reset <file name>
 *git reset --hard <file name>
 
-
+git tag command 
+syntax
+*git tag -a <tag name> -m <message>
+*git tag 
+*git show <tag name>
+*git tag -d <tag name>
 
 
 
