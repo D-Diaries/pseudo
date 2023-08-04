@@ -17,3 +17,8 @@ command for copy file
 syntax
 *cp (source file name) (designation file name)
 
+command for movinig file
+syntax
+*mv (source file name) (designation place)
+
+
