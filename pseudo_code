@@ -1,6 +1,7 @@
 linux commands for file
 ls = list file
 mkdir = make directory
+<<<<<<< HEAD
 history
 
 command for file
@@ -22,14 +23,35 @@ syntax
 *mv (source file name) (designation place)
 
 
-command for displaying content in a file[D[A,,,hhhkkkjjll
-
-
-
-
 command for displaying content in a file
 *head = first 10 line
 *tail = last 10 line
 *grep = searches for pattern
 *cat  = entire content is displayed
 #syntax = cat (file name)
+histor
+ 
+
+Feature2 commands
+
+
+Git application commands
+*git init 
+*git config --global user.name "ram mohan"
+*git config --global user.emai "rammohan@gmail.com"
+*git config --list
+
+
+git reset command
+syntax
+*git reset <file name>
+*git reset --hard <file name>
+
+git tag command 
+syntax
+*git tag -a <tag name> -m <message>
+*git tag 
+*git show <tag name>
+*git tag -d <tag name>
+
+ feature2
