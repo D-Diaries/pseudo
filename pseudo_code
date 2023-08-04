@@ -10,4 +10,12 @@ Git application commands
 *git config --list
 
 
+git reset command
+syntax
+*git reset <file name>
+*git reset --hard <file name>
+
+
+
+
 
