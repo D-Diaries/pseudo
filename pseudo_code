@@ -13,3 +13,7 @@ command for file
 -touch command use for making new empty file
 -cat command also use for checking data of other file
 
+command for copy file
+syntax
+*cp (source file name) (designation file name)
+
