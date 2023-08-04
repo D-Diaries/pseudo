@@ -22,3 +22,14 @@ syntax
 *mv (source file name) (designation place)
 
 
+command for displaying content in a file[D[A,,,hhhkkkjjll
+
+
+
+
+command for displaying content in a file
+*head = first 10 line
+*tail = last 10 line
+*grep = searches for pattern
+*cat  = entire content is displayed
+#syntax = cat (file name)
