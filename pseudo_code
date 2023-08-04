@@ -1,4 +1,13 @@
 linux commands for file
 ls = list file
 mkdir = make directory
-history
+histor
+
+Git application commands
+*git init 
+*git config --global user.name "ram mohan"
+*git config --global user.emai "rammohan@gmail.com"
+*git config --list
+
+
+
